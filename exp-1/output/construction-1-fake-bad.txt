@@ -1,0 +1,6 @@
+CORRECT: a cat over NOT_VERB a zebra below the fish find the fish on a zebra by a dog by a lion over the zebra over the cat by a dog over a lion below a moose by the fish
+OUTPUT:  a cat over NOT_VERB a zebra below the fish find the fish on a zebra by a dog by a lion over the zebra over a cat by a dog over a lion
+
+CORRECT: the cat hunt NOT_VERB the bear on a moose on the zebra by a fish
+OUTPUT:  the cat hunt NOT_VERB the bear on a moose on the zebra
+

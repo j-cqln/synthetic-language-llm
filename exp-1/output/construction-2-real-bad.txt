@@ -1,0 +1,11 @@
+CORRECT: the bear over a lion on the fish below the bear DID_NOT see a moose
+OUTPUT:  the bear over a lion on the fish below the fish DID_NOT see a moose
+
+CORRECT: a bear on a lion over the dog over the dog by a wolf by the cat by a fish on the lion over a cat DID_NOT killed the moose
+OUTPUT:  a bear on a lion over the dog over the dog by a wolf by the cat by a fish on the lion over a cat over killed the moose
+
+CORRECT: the tiger on a tiger DID_NOT see the dog therefore a zebra DID_NOT killed the fish by a fish
+OUTPUT:  the tiger on a tiger DID_NOT see the dog therefore a zebra DID_NOT killed the fish by a fish by
+
+CORRECT: the tiger DID_NOT killed the zebra over the bear by a moose below the elephant on the zebra on a cat below the bear
+OUTPUT:  the tiger DID_NOT killed the zebra over the bear by a moose below the elephant on the zebra on a cat below the bear below

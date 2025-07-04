@@ -1,0 +1,8 @@
+CORRECT: a lion below NOT_VERB NOT_VERB NOT_VERB a moose below the dog by the elephant over a wolf by a elephant hunt a tiger by the dog and the elephant hunt a zebra and the cat hunt the moose
+OUTPUT:  a lion below NOT_VERB NOT_VERB NOT_VERB a moose below the dog by the elephant over a wolf by a elephant hunt a tiger by the dog and the elephant and the zebra and a cat hunt the moose and
+
+CORRECT: a bear over NOT_VERB a cat by the cat find a wolf on the fish below the tiger below a wolf by a elephant
+OUTPUT:  a bear over NOT_VERB a cat by the cat find a wolf on the fish below the tiger
+
+CORRECT: a tiger killed NOT_VERB NOT_VERB NOT_VERB NOT_VERB the moose though a cat see a fish by the tiger though the elephant hunt the tiger though a fish find a bear
+OUTPUT:  a tiger killed NOT_VERB NOT_VERB NOT_VERB the the moose though a cat see a fish by the tiger though the elephant though the fish though a fish find a bear

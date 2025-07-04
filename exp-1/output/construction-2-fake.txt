@@ -1,0 +1,52 @@
+0 Acc: 0.0 Loss: 3.394688844680786 Perplexity: 29.805377960205078
+500 Acc: 0.25833333333333336 Loss: 0.8926025629043579 Perplexity: 2.4414753913879395
+1000 Acc: 0.522 Loss: 0.43262383341789246 Perplexity: 1.541296362876892
+1500 Acc: 0.6216666666666667 Loss: 0.27339044213294983 Perplexity: 1.31441330909729
+2000 Acc: 0.667 Loss: 0.18667972087860107 Perplexity: 1.2052412033081055
+2500 Acc: 0.7033333333333334 Loss: 0.1472749412059784 Perplexity: 1.1586724519729614
+3000 Acc: 0.7753333333333333 Loss: 0.11494933068752289 Perplexity: 1.121816635131836
+3500 Acc: 0.6803333333333333 Loss: 0.13138191401958466 Perplexity: 1.1404032707214355
+4000 Acc: 0.7853333333333333 Loss: 0.09178166836500168 Perplexity: 1.0961254835128784
+4500 Acc: 0.6656666666666666 Loss: 0.1440746933221817 Perplexity: 1.154970407485962
+5000 Acc: 0.8436666666666667 Loss: 0.06538668274879456 Perplexity: 1.067571759223938
+5500 Acc: 0.85 Loss: 0.05580776557326317 Perplexity: 1.0573943853378296
+6000 Acc: 0.8636666666666667 Loss: 0.06011572852730751 Perplexity: 1.0619593858718872
+6500 Acc: 0.9013333333333333 Loss: 0.03806060180068016 Perplexity: 1.0387941598892212
+7000 Acc: 0.894 Loss: 0.03969690203666687 Perplexity: 1.0404953956604004
+7500 Acc: 0.8663333333333333 Loss: 0.0443277582526207 Perplexity: 1.0453249216079712
+8000 Acc: 0.8763333333333333 Loss: 0.042140647768974304 Perplexity: 1.0430412292480469
+8500 Acc: 0.8713333333333333 Loss: 0.038408033549785614 Perplexity: 1.039155125617981
+9000 Acc: 0.832 Loss: 0.06598876416683197 Perplexity: 1.068214774131775
+9500 Acc: 0.851 Loss: 0.04352199658751488 Perplexity: 1.044482946395874
+EXAMPLE MODEL OUTPUTS
+CORRECT: the wolf hunt NOT_VERB a zebra over a wolf below the dog below a bear over a moose by the bear
+OUTPUT:  the wolf hunt NOT_VERB a zebra over a wolf below the dog below a bear over a moose by the bear
+
+CORRECT: the zebra find NOT_VERB the wolf below the cat by a elephant below the cat over the elephant
+OUTPUT:  the zebra find NOT_VERB the wolf below the cat by a elephant below the cat over the elephant
+
+CORRECT: the cat over NOT_VERB a dog over a cat on a bear over a tiger see the wolf
+OUTPUT:  the cat over NOT_VERB a dog over a cat on a bear over a tiger see the wolf
+
+CORRECT: a fish hunt NOT_VERB the cat below the dog over a zebra over the lion below the lion below a dog on the moose on the fish on the wolf
+OUTPUT:  a fish hunt NOT_VERB the cat below the dog over a zebra over the lion below the lion below a dog on the moose on the fish on the wolf
+
+CORRECT: a fish killed NOT_VERB the wolf over a moose on the lion over a fish
+OUTPUT:  a fish killed NOT_VERB the wolf over a moose on the lion over a fish
+
+CORRECT: a cat eat NOT_VERB NOT_VERB the bear over a fish and a lion eat the elephant on the wolf by the tiger
+OUTPUT:  a cat eat NOT_VERB NOT_VERB the bear over a fish and a lion eat the elephant on the wolf by the tiger
+
+CORRECT: a bear on NOT_VERB a lion over the dog over the dog by a wolf by the cat by a fish on the lion over a cat killed the moose
+OUTPUT:  a bear on NOT_VERB a lion over the dog over the dog by a wolf by the cat by a fish on the lion over a cat killed the moose
+
+CORRECT: a zebra eat NOT_VERB a lion
+OUTPUT:  a zebra eat NOT_VERB a lion
+
+CORRECT: the bear killed NOT_VERB the fish
+OUTPUT:  the bear killed NOT_VERB the fish
+
+CORRECT: the zebra hunt NOT_VERB the cat on the lion
+OUTPUT:  the zebra hunt NOT_VERB the cat on the lion
+
+FULL-SENTENCE ACCURACY: 0.866

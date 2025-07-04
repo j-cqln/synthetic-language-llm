@@ -1,0 +1,5 @@
+CORRECT: the cat on a tiger DID_NOT find a bear over the tiger
+OUTPUT:  the cat on a tiger DID_NOT find a bear over the bear
+
+CORRECT: a bear on the bear DID_NOT eat a lion on the lion on the zebra over a dog below the fish
+OUTPUT:  a bear on the bear DID_NOT eat a lion on the lion on the zebra over a dog
